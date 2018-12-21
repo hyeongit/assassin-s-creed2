@@ -1,0 +1,28 @@
+{
+  "name": "assassin-s-creed2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "next": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeongit/assassin-s-creed2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyeongit/assassin-s-creed2/issues"
+  },
+  "homepage": "https://github.com/hyeongit/assassin-s-creed2#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "next": "^7.0.2"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "singleQuote": true
+    }
+}
