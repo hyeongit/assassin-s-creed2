@@ -1,5 +1,7 @@
-# assassin's creed2
-# GitHub is the new-world for me
-# This is very interesting world!
-# I will be the god of this league
-# we got it right for the first time!
+# KAIS, Daejeon, Korea
+
+# Department of Mechanical Engineering
+
+# M.S candidate, Electro Optical and Mechanical Devices group
+
+# Lee Chanhyeong

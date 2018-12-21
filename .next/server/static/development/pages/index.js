@@ -107,13 +107,30 @@ __webpack_require__.r(__webpack_exports__);
 var _jsxFileName = "C:\\Users\\Lee Chanhyeong\\Desktop\\assassin-s-creed2\\pages\\index.js";
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 1
+      lineNumber: 2
     },
     __self: this
-  }, "\uCC2C\uD615\uC774 \uD558\uC774\uB8FD");
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 3
+    },
+    __self: this
+  }, "\uCC2C\uD615\uC774 \uD558\uC774\uB8FD"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    style: {
+      width: '500px',
+      height: '200px',
+      background: 'black'
+    },
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 4
+    },
+    __self: this
+  }));
 });
 
 /***/ }),
